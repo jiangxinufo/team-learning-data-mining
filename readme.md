@@ -1,4 +1,5 @@
-﻿
+#数据挖掘方面很好的入门资料，b站有视频：https://www.bilibili.com/video/BV1ye411x7oU
+
 ## 简介
 
 本项目主要存储Datawhale组队学习中“数据挖掘/机器学习”方向的资料。
